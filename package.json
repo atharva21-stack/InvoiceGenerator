@@ -1,8 +1,8 @@
 {
-  "name": "invoice-generator",
+  "name": "InvoiceGenerator",
   "version": "0.2.1",
   "private": true,
-  "homepage": "https://atharva21-stack.github.io/invoice-generator",
+  "homepage": "https://atharva21-stack.github.io/InvoiceGenerator",
   "dependencies": {
     "@react-pdf/renderer": "^2.0.18",
     "@testing-library/jest-dom": "^4.2.4",
